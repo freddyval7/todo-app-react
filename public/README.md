@@ -71,5 +71,5 @@ $ npm run dev
 ## Contact
 
 - Website [My Portfolio](https://ftdev-portfolio.netlify.app/)
-- GitHub [@freddyval7](https://github.com/freddyval7/})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@freddyval7](https://github.com/freddyval7/)
+- Twitter [@realftdev7](https://twitter.com/realftdev7)
